@@ -1,0 +1,31 @@
+*{
+	font-family: 'Roboto', sans-serif;
+	color: #666;
+}
+
+
+.nav{
+	background: #262626;
+	margin-bottom: 10px
+}
+
+.nav a{
+	color: #e6405d;
+}
+
+ul.info{
+	list-style: none;
+}
+
+.team{
+	position: absolute;
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.team span{
+	display: block;
+	text-align: center;
+	font-size: 12px;
+}
